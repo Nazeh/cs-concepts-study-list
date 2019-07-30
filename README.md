@@ -14,8 +14,10 @@ This is also an excercise in building a mental map for the different subjects in
 >Objects or entities should be open for extension, but closed for modification.
 - Liskov substitution
 >Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
+- Interface segregation
+> A client should never be forced to implement an interface that it doesn't use or 
 - Dependency inversion
->A client should never be forced to implement an interface that it doesn't use or clients shouldn't be forced to depend on methods they do not use.
+> A client shouldn't be forced to depend on methods they do not use.
 
 ### Functional programming
 
