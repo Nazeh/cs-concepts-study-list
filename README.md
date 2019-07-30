@@ -16,3 +16,8 @@ This is also an excercise in building a mental map for the different subjects in
 >Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
 - Dependency inversion
 >A client should never be forced to implement an interface that it doesn't use or clients shouldn't be forced to depend on methods they do not use.
+
+### Functional programming
+
+### Procedural programming
+
